@@ -37,7 +37,7 @@
 ## :octocat: Contributions
 
 <img alt="snake eating my contributions"
-     src="https://raw.githubusercontent.com/scobydobydoo/scobydobydoo/main/dist/github-contribution-grid-snake.svg" />
+     src="https://raw.githubusercontent.com/scobydobydoo/scobydobydoo/output/github-contribution-grid-snake.svg" />
 
 <table cellpadding="0" align="center">
   <tr style="padding: 0">
