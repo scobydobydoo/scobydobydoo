@@ -1,7 +1,9 @@
-# 💫 About Me
+<h1 align="center">Hi, I’m Abhishek 👋</h1>
 
-👋 Hi, I’m **Abhishek!**  
-🎓 B.Tech Computer Science student with a strong interest in **Artificial Intelligence & Machine Learning**.
+<h3 align="center">
+  🎓 B.Tech CSE • 🤖 AI & Machine Learning • 🧩 Problem Solver • 🚀 Project Builder
+</h3>
+
 
 ### 💡 Passionate about
 - 🧩 Solving complex problems and strengthening algorithmic thinking  
@@ -13,8 +15,44 @@
 - 📊 Experience with **AIML projects** and model development  
 - 💻 Software development & backend fundamentals  
 - 🧠 Writing clean, efficient, and optimized code  
+---
+
+<h2 align="center">🤝 Connect with Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhi0214" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" title="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/whereRyou/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" title="LeetCode"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.kaggle.com/scobydobydoo" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="40" title="Kaggle"/>
+  </a>
+</p>
 
 ---
+## :octocat: Contributions
+
+<img alt="snake eating my contributions" 
+     src="https://raw.githubusercontent.com/scobydobydoo/scobydobydoo/output/github-contribution-grid-snake.svg" />
+
+<table cellpadding="0" align="center">
+  <tr style="padding: 0">
+    <!-- GitHub Stats Card -->  
+    <td valign="top">
+      <img height="200" 
+           src="https://github-readme-stats.vercel.app/api?username=scobydobydoo&show_icons=true&theme=vision-friendly-dark"/>
+    </td>
+    <!-- GitHub Top Languages Card -->
+    <td valign="top">
+      <img height="200" 
+           src="https://github-readme-stats.vercel.app/api/top-langs/?username=scobydobydoo&langs_count=6&layout=compact&theme=vision-friendly-dark"/>
+    </td>
+  </tr>
+</table>
 
 # 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -34,7 +72,4 @@
 
 ---
 
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=scobydobydoo&theme=dark&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=scobydobydoo&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=scobydobydoo&theme=dark&hide_border=false&layout=compact)
+
