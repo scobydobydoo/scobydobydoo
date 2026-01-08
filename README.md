@@ -36,23 +36,22 @@
 ---
 ## :octocat: Contributions
 
-<img alt="snake eating my contributions" 
-     src="https://raw.githubusercontent.com/scobydobydoo/scobydobydoo/output/github-contribution-grid-snake.svg" />
+<img alt="snake eating my contributions"
+     src="https://raw.githubusercontent.com/scobydobydoo/scobydobydoo/main/dist/github-contribution-grid-snake.svg" />
 
 <table cellpadding="0" align="center">
   <tr style="padding: 0">
-    <!-- GitHub Stats Card -->  
     <td valign="top">
-      <img height="200" 
+      <img height="200"
            src="https://github-readme-stats.vercel.app/api?username=scobydobydoo&show_icons=true&theme=vision-friendly-dark"/>
     </td>
-    <!-- GitHub Top Languages Card -->
     <td valign="top">
-      <img height="200" 
+      <img height="200"
            src="https://github-readme-stats.vercel.app/api/top-langs/?username=scobydobydoo&langs_count=6&layout=compact&theme=vision-friendly-dark"/>
     </td>
   </tr>
 </table>
+
 
 # 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
