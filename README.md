@@ -1,20 +1,20 @@
 <h1 align="center">Hi, I’m Abhishek 👋</h1>
 
 <h3 align="center">
-  🎓 B.Tech CSE • 🤖 AI & Machine Learning • 🧩 Problem Solver • 🚀 Project Builder
+   B.Tech CSE •  AI & Machine Learning •  Problem Solver •  Project Builder
 </h3>
 
 
-### 💡 Passionate about
-- 🧩 Solving complex problems and strengthening algorithmic thinking  
-- 🤖 Building intelligent, data-driven systems  
-- 🚀 Converting ideas into impactful, real-world projects  
+###  Passionate about
+-  Solving complex problems and strengthening algorithmic thinking  
+-  Building intelligent, data-driven systems  
+-  Converting ideas into impactful, real-world projects  
 
-### 🛠️ Skill Set
-- ⚡ Strong foundation in **Data Structures & Algorithms**  
-- 📊 Experience with **AIML projects** and model development  
-- 💻 Software development & backend fundamentals  
-- 🧠 Writing clean, efficient, and optimized code  
+###  Skill Set
+-  Strong foundation in **Data Structures & Algorithms**  
+-  Experience with **AIML projects** and model development  
+-  Software development & backend fundamentals  
+-  Writing clean, efficient, and optimized code  
 ---
 
 <h2 align="center">🤝 Connect with Me</h2>
