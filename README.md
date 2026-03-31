@@ -62,10 +62,7 @@
       <img height="200"
            src="https://github-readme-stats.vercel.app/api?username=scobydobydoo&show_icons=true&theme=vision-friendly-dark"/>
     </td>
-    <td>
-      <img height="200"
-           src="https://github-readme-stats-git-master-simplysabir.vercel.app/api/top-langs/?username=scobydobydoo&layout=compact&theme=vision-friendly-dark&langs_count=6"/>
-    </td>
+
   </tr>
 </table>
 
