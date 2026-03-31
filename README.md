@@ -13,9 +13,6 @@
 
 ---
 
-
-
-
 # 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -33,7 +30,23 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+
 ---
+
+<h2 align="left">⭐ Featured Projects</h2>
+
+<p align="left">
+
+🔹 <b><a href="https://github.com/scobydobydoo/TravelWise" target="_blank">TravelWise</a></b><br>
+Intelligent Tourist Assistance Decision Support Platform designed to help tourists make safe, cost-effective, and informed travel decisions.<br><br>
+
+🔹 <b><a href="https://github.com/scobydobydoo/MedDenoiser" target="_blank">MedDenoiser</a></b><br>
+GAN(Genrative Adversal Network) based medical image denoising system designed to improve diagnostic clarity and reduce noise in scans.<br><br>
+
+🔹 <b><a href="https://github.com/scobydobydoo/campuswell-agent" target="_blank">CampusWell Agent</a></b><br>
+Multi-agent AI system built using Google ADK to assist students with academic planning, mental well-being, and financial guidance.<br><br>
+
+</p>
 
 <h2 align="left">🤝 Connect with Me</h2>
 
